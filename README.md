@@ -51,9 +51,11 @@ The design demonstrates proper assembly and working of the joint used in real me
 ### 🔹 Orthographic Views
 ![Orthographic](./orthographic-view.png)
 
-### 🔹 Isometric View
-![Isometric](./isometric-view.png)
+### 🔹 NW Isometric View
+![Isometric](./NW%20isometric.png)
 
+### 🔹 Isometric View
+![Isometric](./NW%20isometric.png)
 ---
 
 ## 📁 Files Included
