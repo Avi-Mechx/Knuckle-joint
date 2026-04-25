@@ -42,8 +42,8 @@ The design demonstrates proper assembly and working of the joint used in real me
 
 ## 📷 Model Views (Screenshots)
 
-### 🔹 Assembly View
-![Assembly](./assembly-view.png)
+### 🔹 TOP View
+![Assembly](./Top%20view.png)
 
 ### 🔹 Individual Components
 ![Components](./components-view.png)
